@@ -1,6 +1,6 @@
 - 👋 Hi!, I’m @lguimerans.
 - 👀 I’m interested in all kind of coding, primarily in videogames design.
-- 🌱 I’m currently learning 3D design stuff, VR and Videogame coding, IA networks and more...
+- 🌱 I’m currently learning about 3D design, VR and Videogame coding, IA networks and more...
 - 💞️ I’m looking to collaborate on anyone who want to share the knowledge of coding.
 ------------------------------------------------------------------------------------------------
 - 👋 ¡Hola! soy @lguimerans.
